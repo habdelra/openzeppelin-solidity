@@ -10,7 +10,6 @@
     "test/behaviors"
   ],
   "scripts": {
-    "compile": "scripts/compile.sh",
     "console": "truffle console",
     "coverage": "scripts/coverage.sh",
     "docsite": "scripts/docsite.sh",
